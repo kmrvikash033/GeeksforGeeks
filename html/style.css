@@ -1,0 +1,9 @@
+div span{
+    background-color: gray;
+}
+div>span{
+   background-color: pink; 
+}
+.row:nth-child(even){
+    background-color: bisque;
+}
